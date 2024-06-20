@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Automation Framework]">
+  <test thread-count="5" name="Automation Test(failed)">
+    <classes>
+      <class name="MavenProject.AutomationinMaven.Test3">
+        <methods>
+          <include name="testCheckbox"/>
+        </methods>
+      </class> <!-- MavenProject.AutomationinMaven.Test3 -->
+    </classes>
+  </test> <!-- Automation Test(failed) -->
+</suite> <!-- Failed suite [Test Automation Framework] -->
